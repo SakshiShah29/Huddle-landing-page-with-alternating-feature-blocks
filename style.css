@@ -1,18 +1,16 @@
-                                                                                                                                        * {
-                                                                                                                                            box-sizing: border-box;
-                                                                                                                                        }
-                                                                                                                                        /* general styles */
-                                                                                                                                        
-                                                                                                                                        body {
-                                                                                                                                            color: hsl(192, 100%, 9%);
-                                                                                                                                            font-family: 'Open Sans', sans-serif;
-                                                                                                                                            margin: 0;
-                                                                                                                                        }
-                                                                                                                                        
-                                                                                                                                        h1,
-                                                                                                                                        h2 {
-                                                                                                                                            font-family: 'Poppins', sans-serif;
-                                                                                                                                        }
+     * {
+ box-sizing: border-box;
+  }
+/* general styles */
+ body {
+ color: hsl(192, 100%, 9%);
+ font-family: 'Open Sans', sans-serif;
+ margin: 0;
+  }
+ h1,
+ h2 {
+  font-family: 'Poppins', sans-serif;
+   }
                                                                                                                                         
                                                                                                                                         img {
                                                                                                                                             max-width: 100%;
