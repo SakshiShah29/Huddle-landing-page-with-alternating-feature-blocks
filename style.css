@@ -150,7 +150,7 @@ left: 200px;
  .float-left {
 float: left;
  }
- @media screen and (max-width:375px) {
+ @media screen and (max-width:400px) {
 .flex {
 flex-direction: column;
  }
